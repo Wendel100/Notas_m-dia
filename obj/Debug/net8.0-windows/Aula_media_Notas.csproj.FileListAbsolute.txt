@@ -1,0 +1,17 @@
+C:\Users\darkr\Documents\Aula_media_Notas\bin\Debug\net8.0-windows\Aula_media_Notas.exe
+C:\Users\darkr\Documents\Aula_media_Notas\bin\Debug\net8.0-windows\Aula_media_Notas.deps.json
+C:\Users\darkr\Documents\Aula_media_Notas\bin\Debug\net8.0-windows\Aula_media_Notas.runtimeconfig.json
+C:\Users\darkr\Documents\Aula_media_Notas\bin\Debug\net8.0-windows\Aula_media_Notas.dll
+C:\Users\darkr\Documents\Aula_media_Notas\bin\Debug\net8.0-windows\Aula_media_Notas.pdb
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.Form1.resources
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.csproj.GenerateResource.cache
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.AssemblyInfoInputs.cache
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.AssemblyInfo.cs
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.dll
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\refint\Aula_media_Notas.dll
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.pdb
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.genruntimeconfig.cache
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\ref\Aula_media_Notas.dll
+C:\Users\darkr\Documents\Aula_media_Notas\obj\Debug\net8.0-windows\Aula_media_Notas.Properties.Resources.resources
